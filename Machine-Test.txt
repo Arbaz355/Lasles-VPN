@@ -1,0 +1,11 @@
+Please read all points carefully before starting the design, below is the link which you need to create by code.
+
+https://www.figma.com/file/diBC6zAXcbdXVPEJh92cxu/FREEBIES-Landingpage-LaslesVPN-(Community)?node-id=1%3A2
+
+
+1. You need to design the landing page screen using (HTML/CSS/Bootstrap) or if there is any functionality you can use (JS/JQuery) or any library.
+2. First Create a account in Figma then open that link which we share to you.
+3. We need pixel-perfect design from your end.
+4. Please use same Images / Color / Typography as mentioned in design.
+5. We need Desktop + Responsive design.
+6. Please share your project in ZIP file.
